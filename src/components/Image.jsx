@@ -6,19 +6,19 @@ const Image =()=>{
     const slides = [
          {
             
-            url: '/src/assets/Foods/Beshbarmoq.jpg',
+            url: 'src/assets/Foods/Beshbarmoq.jpg',
             title: 'Beshbarmoq',
          },  
          {
-            url: '/src/assets/Foods/Sushi.jpg',
+            url: 'src/assets/Foods/Sushi.jpg',
             title: 'Sushi',
          },
          {
-            url: '/src/assets/Foods/Plov.jpg',
+            url: 'src/assets/Foods/Plov.jpg',
             title:'Plov',
          },
          {
-            url: '/src/assets/Foods/Salmon.webp',
+            url: 'src/assets/Foods/Salmon.webp',
             title: 'Salmon',
          },
 ];
