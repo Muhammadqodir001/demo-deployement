@@ -1,9 +1,9 @@
 import React from "react";
-
+import Logo from '/src/assets/Logo.jpg'
 const Hero = () =>{
     return ( 
       <div className="w-full h-screen">
-            <img className="top-0 left-0 w-full object-cover" src="src/assets/me3.jpg" />
+            <img className="top-0 left-0 w-full object-cover" src={Logo} />
             <div className="bg-black/30 absolute top-0 left-0  "/>
             <div className="absolute top-0 w-full h-full flex flex-col justify-center text-white ">
               <div className="md:left-[10%] max-x-[1100px] m-auto absolute p-4">
